@@ -4,4 +4,4 @@ Esse repositório contém scripts para ajudar desenvolvedores no Game Maker, ele
 ## Scripts Top Down
 Script de movimentação e de colisão.
 ## Scripts Plataforma
-Script de movimentação e de colisão sem rampas.
+Script de movimentação e de colisão sem rampas e com rampas.
